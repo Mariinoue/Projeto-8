@@ -50,8 +50,8 @@ Com a exceção do não uso de views.
 
 _______
 
-_Postman_ para testagem do API 
+_Postman_ para testagem da API 
 
 
 
-![ProgetoS8](C:\Users\marin\Desktop\ProgetoS8.gif)
+![ProgetoS8](https://user-images.githubusercontent.com/82849390/124197161-52963700-daa4-11eb-9af3-1988fff9e602.gif)
